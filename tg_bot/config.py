@@ -29,6 +29,7 @@ class Config(object):
     PORT = 5000
     DEL_CMDS = False  
     STRICT_GBAN = False
+    STRICT_GMUTE = False
     WORKERS = 8  
     BAN_STICKER = 'CAADAgADOwADPPEcAXkko5EB3YGYAg'  
     ALLOW_EXCL = False  # Allow ! commands as well as /
