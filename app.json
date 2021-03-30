@@ -1,7 +1,7 @@
 
 {
-  "name": "Marie-2.0 English",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
+  "name": "jojibaby",
+  "description": "kaiyi's food assistant!",
   "keywords": [
     "telegram",
     "best",
@@ -9,10 +9,10 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/TGExplore/Marie-2.0-English",
+  "repository": "https://github.com/ivabrya/damnson2",
   "env": {
     "ENV": {
-      "description": "Setting this to ANYTHING will enable env variables",
+      "description": "this is where i copied the code and called it mine",
       "value": "ANYTHING"
     },
     "TOKEN": {
@@ -21,11 +21,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "683538773"
+      "value": "989210292"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "ViruZs"
+      "value": "kaiyi"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -40,8 +40,8 @@
       "value": "-1007777777777"
     },
     "SUDO_USERS": {
-      "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 683538773 570400686 466337795"
+      "description": "sudo = god = me",
+      "value": "989210292"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
@@ -53,7 +53,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/Your_id_here"
+      "value": "paynow / paylah 88944976"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
@@ -64,7 +64,7 @@
       "value": "True"
     },
     "STRICT_GBAN": {
-      "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
+      "description": "for group chats ignore this",
       "value": "True"
     },
     "ALLOW_EXCL": {
@@ -72,7 +72,7 @@
       "value": "True"
     },
     "BAN_STICKER": {
-      "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
+      "description": "random sticker",
       "value": "CAADBAAD6AMAAkJ_EQNu_RjOszbmnxYE"
     }
   },
